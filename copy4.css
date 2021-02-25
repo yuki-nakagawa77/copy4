@@ -98,7 +98,7 @@ header{
 
 .more{
   text-align: center;
-  margin-top: 80px;
+  margin: 80px 0 80px 0;
 }
 
 .more a{
@@ -107,4 +107,7 @@ header{
   background-color: #6c706b;
   text-decoration:none;
   font-size: 12px;
+  border-radius: 3px;
+  box-shadow: 0 2px 0 0 #585b57;
+  border-color: #6c706b;
 }
