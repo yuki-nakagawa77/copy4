@@ -79,5 +79,13 @@ header{
 
 .news1{
   padding: 20px;
-  
+}
+
+.news1 .text1{
+  font-size: 14px;
+}
+
+.news1 .dec{
+  font-size: 13px;
+  color: rgba(0,0,0,.7);
 }
