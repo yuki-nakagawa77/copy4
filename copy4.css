@@ -95,3 +95,16 @@ header{
   color: rgba(0,0,0,.7);
   text-align: left;
 }
+
+.more{
+  text-align: center;
+  margin-top: 80px;
+}
+
+.more a{
+  color: white;
+  padding: 13px 26px;
+  background-color: #6c706b;
+  text-decoration:none;
+  font-size: 12px;
+}
