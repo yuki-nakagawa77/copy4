@@ -61,6 +61,11 @@ header{
   font-size: 30px;
 }
 
+.text-list{
+  margin-left: auto;
+  width: 1050px;
+}
+
 .news-list h3{
   padding: 80px 0 30px 0;
   color: #525252;
@@ -74,18 +79,19 @@ header{
 
 .news{
   display: inline-block;
-  text-align: center;
 }
 
 .news1{
-  padding: 20px;
+  padding: 20px 30px;
 }
 
 .news1 .text1{
   font-size: 14px;
+  text-align: left;
 }
 
 .news1 .dec{
   font-size: 13px;
   color: rgba(0,0,0,.7);
+  text-align: left;
 }
