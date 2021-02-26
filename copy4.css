@@ -141,12 +141,18 @@ footer .icon{
 }
 
 footer img{
-  height: 25px;
-  width: 45px;
+  height: 45px;
+  width: 90px;
+  position: absolute;
+  top: 70px;
+  left: 630px;
 }
 
 footer .privavy{
   text-align: center;
+  color: rgba(26,26,26,.5);
+  font-size: 12px;
+  margin: 50px 0 30px 0;
 }
 
 .text2{
@@ -157,12 +163,43 @@ footer .privavy{
 .text2 .address{
   text-align: left;
   display: inline-block;
+  color: #525252;
+  font-size: 16px;
+  padding: 30px 0 0 50px;
 }
 
 footer .yamagata{
   text-align: center;
+  color: #525252;
+  font-size: 16px;
+  margin: 100px 0 50px 0;
 }
 
 footer .arrow{
   text-align: right;
+}
+
+footer .arrow a{
+  padding: 13px 26px;
+  color: #fff;
+  background-color: #ccc;
+  border-color: #ccc;
+  box-shadow: 0 2px 0 0 #b8b8b8;
+  text-decoration:none;
+}
+
+.facebook {
+  color: black;
+  text-decoration:none;
+  padding-right: 20px;
+
+}
+
+.youtube{
+  color: black;
+}
+
+
+footer{
+  position: relative;
 }
