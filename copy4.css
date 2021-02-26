@@ -136,3 +136,33 @@ header{
   padding: 20px 0 30px 70px;
 }
 
+footer .icon{
+  text-align: center;
+}
+
+footer img{
+  height: 25px;
+  width: 45px;
+}
+
+footer .privavy{
+  text-align: center;
+}
+
+.text2{
+  text-align: center;
+  display: block;
+}
+
+.text2 .address{
+  text-align: left;
+  display: inline-block;
+}
+
+footer .yamagata{
+  text-align: center;
+}
+
+footer .arrow{
+  text-align: right;
+}
