@@ -11,6 +11,9 @@ body, h1, h2, h3, h4, h5, h6, ul, li, a, .ui-widget input, .ui-widget select, .u
   max-width: 1100px;
 }
 
+
+
+
 /*headerここから*/
 header{  
   margin: 0 auto;
@@ -121,6 +124,8 @@ header{
 }
 
 
+
+
 /*projectsここから*/
 .projects{
   border-bottom: 1px solid #525252 ;
@@ -145,6 +150,10 @@ header{
 .project li{
   padding: 20px 0 30px 70px;
 }
+
+
+
+
 
 
 /*footerここから*/
